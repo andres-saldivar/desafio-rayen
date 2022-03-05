@@ -1,0 +1,104 @@
+
+/* NavBar */
+.rayen-navbar {
+    background-color: #712ee9;
+    color: #fff;
+    font-size: 1.3rem;
+    padding: 0.5rem 0.7rem 0.6rem;
+}
+
+.rayen-navbar .nav-link {
+    color: #fff;
+    border: none;
+    background-color: transparent;
+}
+
+/* input */
+.rayen-input {
+    padding: 10px;
+    border: 1px solid rgb(187, 187, 187);
+    border-radius: 4px;
+}
+
+.rayen-input-search {
+    padding: 10px;
+    border: 1px solid rgb(187, 187, 187);
+    border-radius: 4px;
+    border-color: #712ee9;
+}
+
+/* select */
+.rayen-select {
+    width: 100px!important;
+    font-weight: 500;
+    border: none;
+    text-align: end;
+}
+
+.order-title {
+    font-size: 0.8rem;
+    text-align: end;
+}
+
+.container-fluid {
+    padding-right: 0px!important;
+    padding-left: 0px!important;
+    margin: 0px!important;
+}
+
+.list-group-item {
+    border: 0px;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.item {
+    text-transform: capitalize;
+}
+
+.item-fecha{
+    font-size: 0.8rem;
+    padding-top: 2px;
+}
+
+.rayen-btn-outline {
+    border: 0.13rem solid #712ee9!important;
+    color: #712ee9;
+    font-weight: 500;
+}
+
+.rayen-btn-outline:hover {
+    border: 0.13rem solid #712ee9!important;
+    color: #fff;
+    background-color: #712ee9;    
+}
+
+.rayen-btn {
+    border: 0.13rem solid #712ee9!important;
+    background-color: #712ee9;
+    color: #fff;
+    font-weight: 500;
+}
+
+.rayen-btn:hover {
+    border: 0.13rem solid #712ee9!important;
+    color: #712ee9;
+    background-color: #fff;    
+}
+
+.btn-add-tutorial {
+    background-color: #0bccf3;
+    color: #fff;    
+    border: none;    
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    box-shadow: rgb(107, 174, 236) 0px 0px 10px;
+    margin: 30px 35px 50px;
+    float: right;
+}
+
+.rayen-btn-search {
+    border: 1px solid #712ee9!important;    
+    color: #712ee9;
+    font-weight: 500;
+}
